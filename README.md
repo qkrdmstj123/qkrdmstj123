@@ -73,8 +73,6 @@ ps 명령은 프로세스들의 구조를 트리(tree) 형태로 출력할 수�
 
 아래 <그림1-4>에서는 pstree –p 옵션을 통해 pid를 출력한 모습을 나타내고 있다.
 
-![image](https://user-images.githubusercontent.com/106601845/171187810-39ffa30c-854d-4d93-8c17-876e756bb0e7.png)
-
 <그림1-4> pstree –p 명령의 결과
 ![image](https://user-images.githubusercontent.com/106601845/171188996-d0395fe2-8eb9-4bb9-8c24-e7a7b0201d54.png)
 
